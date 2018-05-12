@@ -1,10 +1,14 @@
 _repo: Germany-from-the-Earliest-Period-Volume-4_8401
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Horrocks, George, Mrs.
     alias: Horrocks, Mrs. George
     gutenberg_agent_id: '4545'
     url: http://www.gutenberg.org/2009/agents/4545
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Menzel, Wolfgang
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4544
     wikipedia: http://en.wikipedia.org/wiki/Wolfgang_Menzel
 description: 'Translation of: Geschichte der Deutschen'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8401#Germany-from-the-Earliest-Period-Volume-4
 gutenberg_bookshelf: Germany
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
